@@ -1,7 +1,6 @@
 import React from 'react';
-import { MenuIcon, AtSymbolIcon, BellIcon, } from '@heroicons/react/outline';
+import { MenuIcon } from '@heroicons/react/outline';
 import { MdPendingActions, MdAccountTree, MdBugReport } from "react-icons/md";
-import Image from 'next/image';
 
 function TopBar(props) {
   return (
