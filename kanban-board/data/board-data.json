@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Não Iniciado",
+    "items": [
+      {
+        "id": 3,
+        "priority": 1,
+        "title": "Pesquisa e estratégia para o próximo projeto.",
+        "chat": 0,
+        "attachment": 3,
+        "score": "DTT + 1000",
+        "assignees": [
+          {
+            "avt": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iniciadas",
+    "items": [
+      {
+        "id": 1,
+        "priority": 0,
+        "title": "Redesign do site da empresa.",
+        "chat": 1,
+        "attachment": 2,
+        "score": "DTT + 1000",
+        "assignees": [
+          {
+            "avt": ""
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "priority": 2,
+        "title": "Protótipo de processo de login de aplicativo móvel.",
+        "chat": 10,
+        "attachment": 4,
+        "score": "DTT + 1000",
+        "assignees": [
+          {
+            "avt": ""
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "priority": 2,
+        "title": "Redesign do layout do dashboard.",
+        "chat": 13,
+        "attachment": 2,
+        "score": "DTT + 1000",
+        "assignees": [
+          {
+            "avt": ""
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "priority": 0,
+        "title": "Postagem na rede social.",
+        "chat": 0,
+        "attachment": 0,
+        "score": "DTT + 1000",
+        "assignees": [
+          {
+            "avt": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Concluído",
+    "items": [
+      {
+        "id": 6,
+        "priority": 0,
+        "title": "Revisão do documento de especificações do cliente e dar feedback.",
+        "chat": 13,
+        "attachment": 2,
+        "score": "DTT + 1000",
+        "assignees": [
+          {
+            "avt": ""
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "priority": 1,
+        "title": "Projetos de navegação.",
+        "chat": 0,
+        "attachment": 0,
+        "score": "DTT + 1000",
+        "assignees": [
+          {
+            "avt": ""
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "priority": 2,
+        "title": "Crie um guia de estilo com base em comentários anteriores.",
+        "chat": 5,
+        "attachment": 2,
+        "score": "DTT + 1000",
+        "assignees": [
+          {
+            "avt": ""
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  app:
+    build:
+      context: kanban-board
+    container_name: app
+    entrypoint: sh -c "npm install && npm run dev"
+    volumes:
+      - ./kanban-board:/usr/src/app
+    tty: true
+    ports:
+      - "3000:3000"
